@@ -1,2 +1,2 @@
-# Open-Bootcamp-Exercises
-Open Bootcamp Exercises
+# OpenBootcamp Exercises
+OpenBootcamp Exercises
